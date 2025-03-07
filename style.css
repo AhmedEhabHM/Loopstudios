@@ -9,7 +9,7 @@
 header {
   height: 30rem;
   width: 100%;
-  background-image: url(/image-hero.jpg);
+  background-image: url(image-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -194,42 +194,42 @@ li a:hover {
 /* Grid images */
 
 #p1 {
-  background-image: url(/image-deep-earth.jpg);
+  background-image: url(image-deep-earth.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p2 {
-  background-image: url(/image-night-arcade.jpg);
+  background-image: url(image-night-arcade.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p3 {
-  background-image: url(/image-soccer-team.jpg);
+  background-image: url(image-soccer-team.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p4 {
-  background-image: url(/image-grid.jpg);
+  background-image: url(image-grid.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p5 {
-  background-image: url(/image-from-above.jpg);
+  background-image: url(image-from-above.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p6 {
-  background-image: url(/image-pocket-borealis.jpg);
+  background-image: url(image-pocket-borealis.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p7 {
-  background-image: url(/image-curiosity.jpg);
+  background-image: url(image-curiosity.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #p8 {
-  background-image: url(/image-fisheye.jpg);
+  background-image: url(image-fisheye.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
